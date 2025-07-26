@@ -1,0 +1,16 @@
+# Ignore virtual environments and system files
+venv/
+env/
+_pycache_/
+*.pyc
+*.pyo
+*.pyd
+*.npy
+.DS_Store
+.idea/
+.vscode/
+new/
+Lib/
+build/
+dist/
+*.egg-info/
